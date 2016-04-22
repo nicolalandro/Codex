@@ -225,6 +225,9 @@ public class Pannello{
 	public JTextArea getUpperTextArea() {
 		return upperTextArea;
 	}
+	public void setTextUpperTextArea(String text){
+		upperTextArea.setText(text);
+	}
 	/**
 	 * Metodo che restituisce la lowerTextArea
 	 * @return lowerTextArea = TextArea

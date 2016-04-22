@@ -84,7 +84,9 @@ public class GUIPrimaria extends JFrame {
 				});
 				NuovoItem.setMnemonic('N');
 				filemenu.add(NuovoItem);
-			
+				
+				
+				
 				JMenuItem aboutItem = new JMenuItem("About...");
 				aboutItem.setMnemonic('A');
 				filemenu.add(aboutItem);
