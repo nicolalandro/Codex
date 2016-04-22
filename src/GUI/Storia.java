@@ -4,11 +4,14 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 
+
 //import java.awt.event.*;
 import javax.swing.*;
 
+import _GUI_Test.Pannello_mod;
 
-public class Storia extends Pannello{
+
+public class Storia extends Pannello_mod{
 	/**
 	 *La classe <code>Storia</code> realizza un tipo di Pannello particolare, utilizzato per interrogare i cifrari sulla loro storia.
 	 *@author Nicola Landro

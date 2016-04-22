@@ -3,13 +3,15 @@ package GUI;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+
 //import java.awt.event.*;
 import javax.swing.*;
 
+import _GUI_Test.Pannello_mod;
 import Exception.InvalidCaracterCodiceMorseException;
 
 
-public class DeCript extends Pannello{
+public class DeCript extends Pannello_mod{
 	/**
 	 *La classe <code>DeCript</code> realizza un tipo di Pannello particolare, utilizzato per decriptare.
 	 *@author Nicola Landro

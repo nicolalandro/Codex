@@ -5,13 +5,15 @@ import java.awt.event.ActionListener;
 
 
 
+
 //import java.awt.event.*;
 import javax.swing.*;
 
+import _GUI_Test.Pannello_mod;
 import Exception.InvalidCaracterCodiceMorseException;
 
 
-public class Cript extends Pannello{
+public class Cript extends Pannello_mod{
 	/**
 	 *La classe <code>Cript</code> realizza un tipo di Pannello particolare, utilizzato per criptare.
 	 *@author Nicola Landro
